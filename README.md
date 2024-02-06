@@ -1,6 +1,7 @@
 - 👋 Oi, eu sou o William !
-- 👀 Me interesso muito pela área de Dados
-- 🌱 Estudos focados em Power BI, SQL e Python 
+- 👀 Me interesso pela área de Dados
+- 🌱 Estudos focados em Power BI, SQL e Python
+- 📚 Iniciando Graduação em Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ele/dele
 
 <!---
